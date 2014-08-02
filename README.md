@@ -1,0 +1,4 @@
+plankis-client
+==============
+
+Mobile client
