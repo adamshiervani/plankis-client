@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="0.4.0" >
+        <source path="/home/adam/Workspace/Plankplaneraren/android/app/build/intermediates/exploded-aar/com.github.castorflex.smoothprogressbar/library/0.4.0/assets" />
+    </dataSet>
+    <dataSet config="0.9.9" >
+        <source path="/home/adam/Workspace/Plankplaneraren/android/app/build/intermediates/exploded-aar/com.github.chrisbanes.actionbarpulltorefresh/library/0.9.9/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/home/adam/Workspace/Plankplaneraren/android/app/src/main/assets" >
+            <file
+                name="fonts/Lato-Reg.ttf"
+                path="/home/adam/Workspace/Plankplaneraren/android/app/src/main/assets/fonts/Lato-Reg.ttf" />
+            <file
+                name="fonts/Lato-Bol.ttf"
+                path="/home/adam/Workspace/Plankplaneraren/android/app/src/main/assets/fonts/Lato-Bol.ttf" />
+            <file
+                name="fonts/Lato-BolIta.ttf"
+                path="/home/adam/Workspace/Plankplaneraren/android/app/src/main/assets/fonts/Lato-BolIta.ttf" />
+            <file
+                name="fonts/Lato-Lig.ttf"
+                path="/home/adam/Workspace/Plankplaneraren/android/app/src/main/assets/fonts/Lato-Lig.ttf" />
+            <file
+                name="fonts/Lato-HaiIta.ttf"
+                path="/home/adam/Workspace/Plankplaneraren/android/app/src/main/assets/fonts/Lato-HaiIta.ttf" />
+            <file
+                name="fonts/Lato-Hai.ttf"
+                path="/home/adam/Workspace/Plankplaneraren/android/app/src/main/assets/fonts/Lato-Hai.ttf" />
+            <file
+                name="fonts/Lato-RegIta.ttf"
+                path="/home/adam/Workspace/Plankplaneraren/android/app/src/main/assets/fonts/Lato-RegIta.ttf" />
+            <file
+                name="fonts/Lato-Bla.ttf"
+                path="/home/adam/Workspace/Plankplaneraren/android/app/src/main/assets/fonts/Lato-Bla.ttf" />
+            <file
+                name="fonts/Lato-BlaIta.ttf"
+                path="/home/adam/Workspace/Plankplaneraren/android/app/src/main/assets/fonts/Lato-BlaIta.ttf" />
+            <file
+                name="fonts/Lato-LigIta.ttf"
+                path="/home/adam/Workspace/Plankplaneraren/android/app/src/main/assets/fonts/Lato-LigIta.ttf" />
+            <file
+                name="fonts/Qwigley-Regular.ttf"
+                path="/home/adam/Workspace/Plankplaneraren/android/app/src/main/assets/fonts/Qwigley-Regular.ttf" />
+            <file
+                name="fonts/SIL Open Font License.txt"
+                path="/home/adam/Workspace/Plankplaneraren/android/app/src/main/assets/fonts/SIL Open Font License.txt" />
+        </source>
+        <source path="/home/adam/Workspace/Plankplaneraren/android/app/src/main/assets/fonts" >
+            <file
+                name="Lato-Reg.ttf"
+                path="/home/adam/Workspace/Plankplaneraren/android/app/src/main/assets/fonts/Lato-Reg.ttf" />
+            <file
+                name="Lato-Bol.ttf"
+                path="/home/adam/Workspace/Plankplaneraren/android/app/src/main/assets/fonts/Lato-Bol.ttf" />
+            <file
+                name="Lato-BolIta.ttf"
+                path="/home/adam/Workspace/Plankplaneraren/android/app/src/main/assets/fonts/Lato-BolIta.ttf" />
+            <file
+                name="Lato-Lig.ttf"
+                path="/home/adam/Workspace/Plankplaneraren/android/app/src/main/assets/fonts/Lato-Lig.ttf" />
+            <file
+                name="Lato-HaiIta.ttf"
+                path="/home/adam/Workspace/Plankplaneraren/android/app/src/main/assets/fonts/Lato-HaiIta.ttf" />
+            <file
+                name="Lato-Hai.ttf"
+                path="/home/adam/Workspace/Plankplaneraren/android/app/src/main/assets/fonts/Lato-Hai.ttf" />
+            <file
+                name="Lato-RegIta.ttf"
+                path="/home/adam/Workspace/Plankplaneraren/android/app/src/main/assets/fonts/Lato-RegIta.ttf" />
+            <file
+                name="Lato-Bla.ttf"
+                path="/home/adam/Workspace/Plankplaneraren/android/app/src/main/assets/fonts/Lato-Bla.ttf" />
+            <file
+                name="Lato-BlaIta.ttf"
+                path="/home/adam/Workspace/Plankplaneraren/android/app/src/main/assets/fonts/Lato-BlaIta.ttf" />
+            <file
+                name="Lato-LigIta.ttf"
+                path="/home/adam/Workspace/Plankplaneraren/android/app/src/main/assets/fonts/Lato-LigIta.ttf" />
+            <file
+                name="Qwigley-Regular.ttf"
+                path="/home/adam/Workspace/Plankplaneraren/android/app/src/main/assets/fonts/Qwigley-Regular.ttf" />
+            <file
+                name="SIL Open Font License.txt"
+                path="/home/adam/Workspace/Plankplaneraren/android/app/src/main/assets/fonts/SIL Open Font License.txt" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/adam/Workspace/Plankplaneraren/android/app/src/debug/assets" />
+    </dataSet>
+
+</merger>

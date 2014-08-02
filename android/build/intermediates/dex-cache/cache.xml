@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/adam/Workspace/Plankplaneraren/android/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-1bd09adae01d10f8f097a7c54535018843cfa550.jar"
+        jar="/opt/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="/home/adam/Workspace/Plankplaneraren/android/app/build/intermediates/pre-dexed/debug/gson-2.2.4-05c98d0722956c073ff8dc6dd881d189439a6a19.jar"
+        jar="/home/adam/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568"/>
+    <item
+        dex="/home/adam/Workspace/Plankplaneraren/android/app/build/intermediates/pre-dexed/debug/classes-588327462ba7afdf6faff5205ef7c45da12cc98f.jar"
+        jar="/home/adam/Workspace/Plankplaneraren/android/app/build/intermediates/exploded-aar/com.github.castorflex.smoothprogressbar/library/0.4.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="6ca319f998430aa20c4dde97ba6df213d6cf3dd0"/>
+    <item
+        dex="/home/adam/Workspace/Plankplaneraren/android/app/build/intermediates/pre-dexed/debug/classes-f74a710b1a2d24a89c44969c380d176d0109f28a.jar"
+        jar="/home/adam/Workspace/Plankplaneraren/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.2.42/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e5f81129dfb3d02df80126512bc98278ed2bb40a"/>
+    <item
+        dex="/home/adam/Workspace/Plankplaneraren/android/app/build/intermediates/pre-dexed/debug/androidasync-1.2.1-98c0d46b7f7fae82797225fb4554c820a8f4e155.jar"
+        jar="/home/adam/.gradle/caches/modules-2/files-2.1/com.koushikdutta.async/androidasync/1.2.1/b968bb3aed66341d3a8f3dd9899ebe2ad2d30db/androidasync-1.2.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0b968bb3aed66341d3a8f3dd9899ebe2ad2d30db"/>
+    <item
+        dex="/home/adam/Workspace/Plankplaneraren/android/app/build/intermediates/pre-dexed/debug/classes-d870d979d61e45936c6819b411104333a639261b.jar"
+        jar="/home/adam/Workspace/Plankplaneraren/android/app/build/intermediates/exploded-aar/com.github.chrisbanes.actionbarpulltorefresh/library/0.9.9/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="06ca4ea902f14efb76284d918edb085df33cc365"/>
+    <item
+        dex="/home/adam/Workspace/Plankplaneraren/android/app/build/intermediates/pre-dexed/debug/ion-1.2.1-db975860c3761ae52e52bd460820cae17dbeeef6.jar"
+        jar="/home/adam/.gradle/caches/modules-2/files-2.1/com.koushikdutta.ion/ion/1.2.1/4115a160b3b35b38a01bae4269ffff54f0b20bc/ion-1.2.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="04115a160b3b35b38a01bae4269ffff54f0b20bc"/>
+    <item
+        dex="/home/adam/Workspace/Plankplaneraren/android/app/build/intermediates/pre-dexed/debug/picasso-2.1.1-39e8d9673160f542311bfdb0f3a29b02887763cd.jar"
+        jar="/home/adam/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.1.1/ab19bfb23f641f189b6dca9a4d393f8dc291103a/picasso-2.1.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ab19bfb23f641f189b6dca9a4d393f8dc291103a"/>
+
+</pre-dex-items>
